@@ -1,5 +1,6 @@
 # Fundamentals:
-## Playlist:
+## Course | playlist:
+- https://www.youtube.com/playlist?list=PLjWKBIlHgVAAQwoCh-3wMifK73jOms4p8
 - https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSM_uLyxy5B6ml_BpmLFAHU
 - https://www.youtube.com/playlist?list=PLOWD429gOtFxn17zXpAM4pTws8daMO2fS
 
@@ -8,9 +9,8 @@
 
 # Cryptography
 ## Nonce
-[What is a Nonce?](https://youtu.be/EOgpr73-pgc)
-
-[How does a blockchain work - Simply Explained](https://youtu.be/SSo_EIwHSd4)
+- [7 How Mining Works The Nonce](https://youtu.be/6MgJCGb01jI)
+- [What is a Nonce?](https://youtu.be/EOgpr73-pgc)
 
 ## Asymmetric Encryption
 - [Asymmetric Encryption - Simply explained](https://youtu.be/AQDCe585Lnc)
@@ -30,6 +30,7 @@
 AI-generated: [Blockchain Technology Explained (2 Hour Course)](https://youtu.be/qOVAbKKSH10)
 
 index:
+- [How does a blockchain work - Simply Explained](https://youtu.be/SSo_EIwHSd4)
 - [Blockchain 101 - A Visual Demo](https://youtu.be/_160oMzblY8)
 - [How does a blockchain work - Simply Explained](https://youtu.be/SSo_EIwHSd4)
 - [But how does bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
